@@ -156,6 +156,69 @@
     opacity: 0.95;
   }
 
+
+  /* Equipment & Pantry kit grid */
+  .kit-block {
+    background: var(--paper);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    border: 1px solid #e0c9a8;
+    box-shadow: 0 12px 30px rgba(0,0,0,.25);
+  }
+  .kit-block .kit-intro {
+    padding: 1.25rem 1.5rem 0.5rem;
+    font-style: italic;
+    color: #5a3a28;
+  }
+  .kit-block h3.kit-sub {
+    margin: 1.25rem 1.5rem 0.75rem;
+    color: var(--terracotta);
+    font-size: 1.15rem;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #e0c9a8;
+    padding-bottom: 0.35rem;
+  }
+  .kit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.25rem;
+    padding: 0.5rem 1.5rem 1.75rem;
+  }
+  .kit-card {
+    background: #fffaf3;
+    border: 1px solid #e0c9a8;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(60,20,10,.1);
+    display: flex;
+    flex-direction: column;
+  }
+  .kit-card img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
+    background: #f0e6d4;
+  }
+  .kit-card .kit-body {
+    padding: 0.85rem 1rem 1.1rem;
+    flex: 1;
+  }
+  .kit-card h4 {
+    margin: 0 0 0.4rem;
+    color: var(--deep);
+    font-size: 1.05rem;
+    line-height: 1.25;
+  }
+  .kit-card p {
+    margin: 0;
+    font-size: 0.92rem;
+    color: #5a3a28;
+    line-height: 1.45;
+  }
+
 </style>
 </head>
 <body>
@@ -176,6 +239,10 @@
 
   <nav class="toc" id="toc">
     <h2>What’s on the menu — 88 dishes</h2>
+    <h3>Part 0 — Equipment &amp; Pantry</h3>
+    <ol>
+      <li><a href="#kit">Wok Kit &amp; Pantry Staples</a></li>
+    </ol>
     <h3>Part I — American Chinese Buffet &amp; Takeout (44)</h3>
     <ol>
       <li><a href="#general-tsos">General Tso&#x27;s Chicken</a></li>
@@ -271,6 +338,90 @@
       <li><a href="#scallion-oil-rice">Scallion Oil Rice</a></li>
     </ol>
   </nav>
+
+  <section class="part" id="kit">
+    <h2>Part 0 — Equipment &amp; Pantry</h2>
+    <p>Before the steam-table glory and the weeknight wok, stock the tools and bottles that make Chinese cooking taste like itself.</p>
+  </section>
+  <div class="kit-block">
+    <p class="kit-intro">Taste first. A hot wok, a sharp cleaver, and five pantry bottles will get you further than a drawer full of gadgets. Build heat, build sauce, then eat while it’s still loud.</p>
+    <h3 class="kit-sub">Equipment</h3>
+    <div class="kit-grid">
+      <article class="kit-card">
+        <img src="images/kit/kit-wok.png" alt="Carbon-steel wok" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Carbon-Steel Wok</h4>
+          <p>High heat, fast toss, that whisper of wok hei. Season it once, keep it dry, and it cooks like a cast-iron cousin with better walls.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/kit-cleaver.png" alt="Chinese cleaver" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Cleaver</h4>
+          <p>Chop, smash, scoop. One blade for garlic paste, vegetable ribbons, and moving everything from board to wok.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/kit-bamboo-steamer.png" alt="Bamboo steamer" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Bamboo Steamer</h4>
+          <p>Gentle steam for bao, dumplings, and fish. Lined with cabbage or parchment so nothing sticks and nothing weeps.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/kit-spider.png" alt="Spider strainer and ladle" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Spider &amp; Ladle</h4>
+          <p>Fish fried bits from oil, lift noodles from water, finish sauces without losing the heat. The wok’s best friends.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/kit-rice-cooker.png" alt="Rice cooker" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Rice Cooker</h4>
+          <p>Perfect rice on autopilot so the wok can stay loud. Day-old fridge rice is still the fried-rice secret.</p>
+        </div>
+      </article>
+    </div>
+    <h3 class="kit-sub">Pantry</h3>
+    <div class="kit-grid">
+      <article class="kit-card">
+        <img src="images/kit/pantry-soy.png" alt="Light and dark soy sauce" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Light &amp; Dark Soy</h4>
+          <p>Light for salt and brightness; dark for color and molasses depth. Keep both — they are not twins.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/pantry-oyster.png" alt="Oyster sauce" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Oyster Sauce</h4>
+          <p>Umami lacquer for greens, beef, and stir-fries. A spoon turns plain into takeout-night shiny.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/pantry-sesame-oil.png" alt="Toasted sesame oil" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Toasted Sesame Oil</h4>
+          <p>Finish, don’t fry. A few drops at the end wake noodles, dumplings, and cold salads.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/pantry-cornstarch.png" alt="Cornstarch" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Cornstarch</h4>
+          <p>Velvet meat, glossy sauces, light dredges. Mix with cold water before it hits the wok.</p>
+        </div>
+      </article>
+      <article class="kit-card">
+        <img src="images/kit/pantry-shaoxing.png" alt="Shaoxing wine" loading="lazy" width="400" height="400"/>
+        <div class="kit-body">
+          <h4>Shaoxing Wine</h4>
+          <p>The kitchen’s red wine: marinades, deglazes, and that round aroma Chinese kitchens lean on.</p>
+        </div>
+      </article>
+    </div>
+  </div>
 
   <section class="part" id="part-i">
     <h2>Part I — American Chinese Buffet &amp; Takeout</h2>
