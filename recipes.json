@@ -1,0 +1,530 @@
+[
+  {
+    "id": "general-tsos",
+    "title": "General Tso's Chicken",
+    "part": "buffet",
+    "blurb": "Crispy dark-meat chicken in a glossy sweet-chile lacquer \u2014 buffet throne food."
+  },
+  {
+    "id": "orange-chicken",
+    "title": "Orange Chicken",
+    "part": "buffet",
+    "blurb": "Fried nuggets under orange-zest sticky sauce \u2014 mall-court legend."
+  },
+  {
+    "id": "sesame-chicken",
+    "title": "Sesame Chicken",
+    "part": "buffet",
+    "blurb": "Honey-soy glaze, toasted sesame \u2014 softer sibling of General Tso."
+  },
+  {
+    "id": "sweet-sour-chicken",
+    "title": "Sweet & Sour Chicken",
+    "part": "buffet",
+    "blurb": "Neon-red lacquer, pineapple, pepper \u2014 childhood takeout joy."
+  },
+  {
+    "id": "sweet-sour-pork",
+    "title": "Sweet & Sour Pork",
+    "part": "buffet",
+    "blurb": "Crispy pork cubes in the same bright sauce."
+  },
+  {
+    "id": "lemon-chicken",
+    "title": "Lemon Chicken",
+    "part": "buffet",
+    "blurb": "Light batter, sunny lemon glaze \u2014 diner bright."
+  },
+  {
+    "id": "kung-pao-am",
+    "title": "Kung Pao Chicken (American)",
+    "part": "buffet",
+    "blurb": "Peanuts, mild chile, brown sauce \u2014 heat without fear."
+  },
+  {
+    "id": "cashew-chicken",
+    "title": "Cashew Chicken",
+    "part": "buffet",
+    "blurb": "Fried chicken, cashews, savory gravy \u2014 Midwest Chinese glory."
+  },
+  {
+    "id": "almond-chicken",
+    "title": "Almond Boneless Chicken",
+    "part": "buffet",
+    "blurb": "Battered cutlets, brown gravy, toasted almonds."
+  },
+  {
+    "id": "mongolian-beef",
+    "title": "Mongolian Beef",
+    "part": "buffet",
+    "blurb": "Flank steak, scallions, brown-sugar soy \u2014 sizzle-platter energy."
+  },
+  {
+    "id": "beef-broccoli",
+    "title": "Beef and Broccoli",
+    "part": "buffet",
+    "blurb": "Velveted beef, crisp broccoli, oyster-soy \u2014 weeknight king."
+  },
+  {
+    "id": "pepper-steak",
+    "title": "Pepper Steak with Onions",
+    "part": "buffet",
+    "blurb": "Green pepper, onion, gravy \u2014 steam-table classic."
+  },
+  {
+    "id": "moo-goo",
+    "title": "Moo Goo Gai Pan",
+    "part": "buffet",
+    "blurb": "White-sauce chicken with mushrooms \u2014 gentle and creamy."
+  },
+  {
+    "id": "garlic-chicken",
+    "title": "Chicken with Garlic Sauce",
+    "part": "buffet",
+    "blurb": "Brown garlic sauce, mixed veg \u2014 Hunan-American."
+  },
+  {
+    "id": "string-bean-chicken",
+    "title": "String Bean Chicken",
+    "part": "buffet",
+    "blurb": "Dry-wok beans, chicken, garlic."
+  },
+  {
+    "id": "shrimp-lobster-sauce",
+    "title": "Shrimp with Lobster Sauce",
+    "part": "buffet",
+    "blurb": "No lobster \u2014 egg-drop white sauce over shrimp."
+  },
+  {
+    "id": "salt-pepper-shrimp",
+    "title": "Salt & Pepper Shrimp",
+    "part": "buffet",
+    "blurb": "Crispy shrimp, five-spice salt, jalape\u00f1o."
+  },
+  {
+    "id": "honey-walnut-shrimp",
+    "title": "Honey Walnut Shrimp",
+    "part": "buffet",
+    "blurb": "Mayo-honey glaze, candied walnuts \u2014 banquet flex."
+  },
+  {
+    "id": "fried-shrimp",
+    "title": "Batter-Fried Shrimp",
+    "part": "buffet",
+    "blurb": "Golden shrimp, duck sauce on the side."
+  },
+  {
+    "id": "crab-rangoon",
+    "title": "Crab Rangoon",
+    "part": "buffet",
+    "blurb": "Cream-cheese wonton pillows \u2014 fully American Chinese."
+  },
+  {
+    "id": "egg-rolls",
+    "title": "Egg Rolls",
+    "part": "buffet",
+    "blurb": "Cabbage-pork rolls, mustard and duck sauce."
+  },
+  {
+    "id": "fried-wontons",
+    "title": "Fried Wontons",
+    "part": "buffet",
+    "blurb": "Bubbly skins, pork filling \u2014 pu pu platter."
+  },
+  {
+    "id": "bbq-ribs",
+    "title": "Chinese BBQ Spare Ribs",
+    "part": "buffet",
+    "blurb": "Candy-red sticky ribs from the steam table."
+  },
+  {
+    "id": "boneless-ribs",
+    "title": "Boneless Spare Ribs",
+    "part": "buffet",
+    "blurb": "Char-siu-ish chunks, sticky glaze."
+  },
+  {
+    "id": "pu-pu-wings",
+    "title": "Pu Pu Platter Wings",
+    "part": "buffet",
+    "blurb": "Sticky soy-sesame wings from the sampler."
+  },
+  {
+    "id": "combo-fried-rice",
+    "title": "Combination Fried Rice",
+    "part": "buffet",
+    "blurb": "Egg, peas, carrots, mixed meats \u2014 takeout box."
+  },
+  {
+    "id": "pork-fried-rice",
+    "title": "Pork Fried Rice",
+    "part": "buffet",
+    "blurb": "Char siu scraps, day-old rice, wok hei."
+  },
+  {
+    "id": "chicken-lo-mein",
+    "title": "Chicken Lo Mein",
+    "part": "buffet",
+    "blurb": "Soft egg noodles, brown sauce."
+  },
+  {
+    "id": "beef-lo-mein",
+    "title": "Beef Lo Mein",
+    "part": "buffet",
+    "blurb": "Same noodle hug, beefy gravy."
+  },
+  {
+    "id": "shrimp-lo-mein",
+    "title": "Shrimp Lo Mein",
+    "part": "buffet",
+    "blurb": "Classic seafood noodle box."
+  },
+  {
+    "id": "crispy-chow-mein",
+    "title": "Chicken Chow Mein (Crispy)",
+    "part": "buffet",
+    "blurb": "Crispy noodle nest, gravy poured over."
+  },
+  {
+    "id": "chop-suey",
+    "title": "Chicken Chop Suey",
+    "part": "buffet",
+    "blurb": "Soft vegetables, gravy over rice \u2014 American original."
+  },
+  {
+    "id": "egg-foo-young",
+    "title": "Egg Foo Young",
+    "part": "buffet",
+    "blurb": "Fried egg patties with brown gravy."
+  },
+  {
+    "id": "hot-sour",
+    "title": "Hot & Sour Soup",
+    "part": "buffet",
+    "blurb": "Pepper heat, vinegar, tofu, egg ribbons."
+  },
+  {
+    "id": "egg-drop",
+    "title": "Egg Drop Soup",
+    "part": "buffet",
+    "blurb": "Silky yellow ribbons in chicken broth."
+  },
+  {
+    "id": "wonton-soup",
+    "title": "Wonton Soup",
+    "part": "buffet",
+    "blurb": "Pork wontons in clear broth."
+  },
+  {
+    "id": "mu-shu-pork",
+    "title": "Mu Shu Pork",
+    "part": "buffet",
+    "blurb": "Shredded pork, pancakes, hoisin smear."
+  },
+  {
+    "id": "singapore-mei-fun",
+    "title": "Singapore Mei Fun",
+    "part": "buffet",
+    "blurb": "Curry-kissed thin rice noodles (American style)."
+  },
+  {
+    "id": "beef-chow-fun",
+    "title": "Beef Chow Fun",
+    "part": "buffet",
+    "blurb": "Wide rice noodles, beef, bean sprouts."
+  },
+  {
+    "id": "orange-beef",
+    "title": "Orange Beef",
+    "part": "buffet",
+    "blurb": "Crispy beef, orange peel, chile sheen."
+  },
+  {
+    "id": "broccoli-garlic",
+    "title": "Broccoli with Garlic Sauce",
+    "part": "buffet",
+    "blurb": "Buffet vegetable hero."
+  },
+  {
+    "id": "fried-dumplings",
+    "title": "Pan-Fried Dumplings",
+    "part": "buffet",
+    "blurb": "Potsticker bottoms, steamed tops."
+  },
+  {
+    "id": "scallion-pancake-am",
+    "title": "Scallion Pancakes",
+    "part": "buffet",
+    "blurb": "Flaky, oily, soy-vinegar dip."
+  },
+  {
+    "id": "teriyaki-chicken-am",
+    "title": "Chinese-American Teriyaki Chicken",
+    "part": "buffet",
+    "blurb": "Glazed grilled thighs, sesame seeds."
+  },
+  {
+    "id": "tomato-egg",
+    "title": "Tomato & Egg Stir-Fry",
+    "part": "mainland",
+    "blurb": "China's home-kitchen #1 \u2014 sweet tomato, soft egg."
+  },
+  {
+    "id": "scallion-oil-noodles",
+    "title": "Scallion Oil Noodles",
+    "part": "mainland",
+    "blurb": "Cong you ban mian \u2014 fragrant oil, soy, wheat noodles."
+  },
+  {
+    "id": "soy-chow-mein",
+    "title": "Soy Sauce Fried Noodles",
+    "part": "mainland",
+    "blurb": "Cantonese soy chow mein \u2014 simple and fragrant."
+  },
+  {
+    "id": "yangzhou-rice",
+    "title": "Yangzhou Fried Rice",
+    "part": "mainland",
+    "blurb": "Egg, ham or shrimp, peas \u2014 banquet fried rice."
+  },
+  {
+    "id": "garlic-bok-choy",
+    "title": "Garlic Bok Choy",
+    "part": "mainland",
+    "blurb": "Blanched greens, sizzling garlic oil."
+  },
+  {
+    "id": "oyster-gai-lan",
+    "title": "Gai Lan with Oyster Sauce",
+    "part": "mainland",
+    "blurb": "Chinese broccoli under glossy oyster sauce."
+  },
+  {
+    "id": "dry-fried-beans",
+    "title": "Dry-Fried Green Beans",
+    "part": "mainland",
+    "blurb": "Wrinkled beans, garlic, optional bit of pork."
+  },
+  {
+    "id": "di-san-xian",
+    "title": "Di San Xian",
+    "part": "mainland",
+    "blurb": "Potato, eggplant, pepper \u2014 Northeast trio."
+  },
+  {
+    "id": "tudou-si",
+    "title": "Shredded Potato Stir-Fry",
+    "part": "mainland",
+    "blurb": "Crisp-tender potato shreds, splash of vinegar."
+  },
+  {
+    "id": "egg-chive",
+    "title": "Scrambled Egg with Chives",
+    "part": "mainland",
+    "blurb": "Soft eggs, fragrant Chinese chives."
+  },
+  {
+    "id": "steamed-egg",
+    "title": "Silky Steamed Eggs",
+    "part": "mainland",
+    "blurb": "Spoonable egg custard comfort."
+  },
+  {
+    "id": "hong-shao-rou",
+    "title": "Red-Braised Pork Belly",
+    "part": "mainland",
+    "blurb": "Hong shao rou \u2014 soy, rock sugar, melt-apart."
+  },
+  {
+    "id": "tang-cu-ribs",
+    "title": "Chinese Sweet-Sour Spare Ribs",
+    "part": "mainland",
+    "blurb": "Tang cu pai gu \u2014 sticky, not neon-red."
+  },
+  {
+    "id": "lion-head",
+    "title": "Lion's Head Meatballs",
+    "part": "mainland",
+    "blurb": "Giant pork meatballs braised with napa."
+  },
+  {
+    "id": "char-siu",
+    "title": "Char Siu Roast Pork",
+    "part": "mainland",
+    "blurb": "Honey-red roast pork \u2014 slice over rice."
+  },
+  {
+    "id": "three-cup",
+    "title": "Three Cup Chicken",
+    "part": "mainland",
+    "blurb": "Sesame oil, soy, rice wine \u2014 Taiwan classic."
+  },
+  {
+    "id": "hainan-chicken",
+    "title": "Hainanese Chicken Rice",
+    "part": "mainland",
+    "blurb": "Poached chicken, ginger-scallion, fragrant rice."
+  },
+  {
+    "id": "ginger-fish",
+    "title": "Steamed Fish with Ginger & Scallion",
+    "part": "mainland",
+    "blurb": "Clean white fish, hot oil finish."
+  },
+  {
+    "id": "mapo-mild",
+    "title": "Mapo Tofu (Mild Home Style)",
+    "part": "mainland",
+    "blurb": "Soft tofu, minced pork \u2014 heat dialed for Western tables."
+  },
+  {
+    "id": "home-tofu",
+    "title": "Home-Style Braised Tofu",
+    "part": "mainland",
+    "blurb": "Pan-fried tofu slabs in savory sauce."
+  },
+  {
+    "id": "smashed-cucumber",
+    "title": "Smashed Cucumber Salad",
+    "part": "mainland",
+    "blurb": "Garlic, vinegar, sesame \u2014 cold crunch."
+  },
+  {
+    "id": "cold-sesame",
+    "title": "Cold Sesame Noodles",
+    "part": "mainland",
+    "blurb": "Peanut-sesame sauce on springy noodles."
+  },
+  {
+    "id": "dan-dan-mild",
+    "title": "Dan Dan Noodles (Mild)",
+    "part": "mainland",
+    "blurb": "Sesame-soy, light chile, minced pork."
+  },
+  {
+    "id": "zha-jiang",
+    "title": "Zha Jiang Mian",
+    "part": "mainland",
+    "blurb": "Northern meat-sauce noodles."
+  },
+  {
+    "id": "wonton-chili-mild",
+    "title": "Wontons in Mild Chili Oil",
+    "part": "mainland",
+    "blurb": "Silk wontons, fragrant oil \u2014 not tongue-numbing."
+  },
+  {
+    "id": "jiaozi",
+    "title": "Boiled Dumplings (Jiaozi)",
+    "part": "mainland",
+    "blurb": "Pork-cabbage or chive \u2014 vinegar dip."
+  },
+  {
+    "id": "baozi",
+    "title": "Steamed Pork Baozi",
+    "part": "mainland",
+    "blurb": "Fluffy buns, juicy pork."
+  },
+  {
+    "id": "cong-you-bing",
+    "title": "Cong You Bing",
+    "part": "mainland",
+    "blurb": "Layered scallion flatbread, pan-fried."
+  },
+  {
+    "id": "tomato-beef-noodles",
+    "title": "Tomato Beef Noodle Soup",
+    "part": "mainland",
+    "blurb": "Tomato-forward beef broth with noodles."
+  },
+  {
+    "id": "clear-wonton-noodles",
+    "title": "Clear Broth Wonton Noodles",
+    "part": "mainland",
+    "blurb": "Hong Kong caf\u00e9 gentle bowl."
+  },
+  {
+    "id": "napa-stir",
+    "title": "Stir-Fried Napa Cabbage",
+    "part": "mainland",
+    "blurb": "Sweet cabbage, garlic, splash of soy."
+  },
+  {
+    "id": "corn-rib-soup",
+    "title": "Corn & Spare Rib Soup",
+    "part": "mainland",
+    "blurb": "Sweet corn, soft ribs \u2014 simple simmer."
+  },
+  {
+    "id": "claypot-chicken",
+    "title": "Claypot Chicken Rice",
+    "part": "mainland",
+    "blurb": "Rice crust, chicken, optional lap cheong."
+  },
+  {
+    "id": "salt-pepper-tofu",
+    "title": "Salt & Pepper Tofu",
+    "part": "mainland",
+    "blurb": "Crispy tofu, jalape\u00f1o, garlic."
+  },
+  {
+    "id": "salt-pepper-squid",
+    "title": "Salt & Pepper Squid",
+    "part": "mainland",
+    "blurb": "Light batter, five-spice salt."
+  },
+  {
+    "id": "walnut-prawns",
+    "title": "Hong Kong-Style Walnut Prawns",
+    "part": "mainland",
+    "blurb": "Mayo glaze, candied walnuts."
+  },
+  {
+    "id": "char-siu-rice",
+    "title": "Char Siu Rice Plate",
+    "part": "mainland",
+    "blurb": "Roast pork over rice with gravy."
+  },
+  {
+    "id": "roast-duck-rice",
+    "title": "Roast Duck Rice Plate",
+    "part": "mainland",
+    "blurb": "Crispy-skin duck over rice."
+  },
+  {
+    "id": "soy-chicken-rice",
+    "title": "Soy Sauce Chicken Rice",
+    "part": "mainland",
+    "blurb": "Silky soy-poached chicken over rice."
+  },
+  {
+    "id": "shrimp-fried-rice",
+    "title": "Shrimp Egg Fried Rice",
+    "part": "mainland",
+    "blurb": "Wok rice, plump shrimp, scallion."
+  },
+  {
+    "id": "tomato-beef",
+    "title": "Tomato Beef Stir-Fry",
+    "part": "mainland",
+    "blurb": "Cantonese tomato beef \u2014 ketchup-soy sweet."
+  },
+  {
+    "id": "black-pepper-beef",
+    "title": "Black Pepper Beef",
+    "part": "mainland",
+    "blurb": "Peppery wok beef with onion."
+  },
+  {
+    "id": "egg-tomato-soup",
+    "title": "Tomato Egg Drop Soup",
+    "part": "mainland",
+    "blurb": "Home soup \u2014 tomato sweetness, eggy ribbons."
+  },
+  {
+    "id": "scallion-oil-rice",
+    "title": "Scallion Oil Rice",
+    "part": "mainland",
+    "blurb": "Hot rice dressed with sizzled scallion oil."
+  }
+]
