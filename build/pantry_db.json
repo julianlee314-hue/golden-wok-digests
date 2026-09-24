@@ -1,0 +1,5195 @@
+{
+  "book": "chinese",
+  "equipment": [
+    {
+      "id": "carbon-steel-wok",
+      "name": "Carbon-Steel Wok",
+      "blurb": "High heat, fast toss, wok hei when the burner allows. Season like cast iron.",
+      "img": "kit-wok.png"
+    },
+    {
+      "id": "wok-over-flame",
+      "name": "Wok over Flame",
+      "blurb": "The drama shot: oil shimmer, aromatics bloom, steam shooting up.",
+      "img": "kit-wok-flame.png"
+    },
+    {
+      "id": "chinese-cleaver",
+      "name": "Chinese Cleaver",
+      "blurb": "Chop, smash garlic, scoop \u2014 one blade, many jobs.",
+      "img": "kit-cleaver.png"
+    },
+    {
+      "id": "bamboo-steamer",
+      "name": "Bamboo Steamer",
+      "blurb": "Bao, dumplings, fish \u2014 gentle steam in stacked trays.",
+      "img": "kit-bamboo-steamer.png"
+    },
+    {
+      "id": "steamer-tower",
+      "name": "Steamer Tower",
+      "blurb": "Stack trays for a dim-sum parade without crowding.",
+      "img": "kit-steamer-tower.png"
+    },
+    {
+      "id": "spider-strainer",
+      "name": "Spider Strainer",
+      "blurb": "Lift noodles, skim fry oil, scoop blanched greens.",
+      "img": "kit-spider.png"
+    },
+    {
+      "id": "spider-lift",
+      "name": "Spider Lift",
+      "blurb": "Noodles rising from the boil \u2014 lunch in one swoop.",
+      "img": "kit-spider-lift.png"
+    },
+    {
+      "id": "rice-cooker",
+      "name": "Rice Cooker",
+      "blurb": "Perfect jasmine on autopilot while the wok works.",
+      "img": "kit-rice-cooker.png"
+    }
+  ],
+  "featured": [
+    {
+      "img": "pantry-soy.png",
+      "name": "Soy Sauce",
+      "blurb": "Light for seasoning, dark for color \u2014 the pantry's salt and soul."
+    },
+    {
+      "img": "pantry-oyster.png",
+      "name": "Oyster Sauce",
+      "blurb": "Glossy umami for beef & broccoli and weeknight stir-fries."
+    },
+    {
+      "img": "pantry-sesame-oil.png",
+      "name": "Toasted Sesame Oil",
+      "blurb": "Finish, don't fry \u2014 a few drops announce dinner."
+    },
+    {
+      "img": "pantry-cornstarch.png",
+      "name": "Cornstarch",
+      "blurb": "Velvet meats, gloss sauces, crisp coatings."
+    },
+    {
+      "img": "pantry-shaoxing.png",
+      "name": "Shaoxing Wine",
+      "blurb": "Marinades and deglazes \u2014 the kitchen's red wine."
+    },
+    {
+      "img": "pantry-trinity.png",
+      "name": "Ginger \u00b7 Garlic \u00b7 Scallion",
+      "blurb": "The wok trinity. Bloom in hot oil and the kitchen wakes up."
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "category": "Aromatics & Produce",
+      "count": 55,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Bloom in oil before anything else hits the wok. Seen across ~55 dishes in this book."
+    },
+    {
+      "id": "white-pepper",
+      "name": "White pepper",
+      "category": "Spices",
+      "count": 15,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Egg drop and hot-and-sour whisper heat. Seen across ~15 dishes in this book."
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "category": "Proteins",
+      "count": 11,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "combo-fried-rice",
+          "title": "Combination Fried Rice"
+        },
+        {
+          "id": "pork-fried-rice",
+          "title": "Pork Fried Rice"
+        },
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "tomato-egg",
+          "title": "Tomato & Egg Stir-Fry"
+        },
+        {
+          "id": "yangzhou-rice",
+          "title": "Yangzhou Fried Rice"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "shrimp-fried-rice",
+          "title": "Shrimp Egg Fried Rice"
+        }
+      ],
+      "note": "Fried rice, egg drop, tomato-egg comfort. Seen across ~11 dishes in this book."
+    },
+    {
+      "id": "scallions",
+      "name": "Scallions",
+      "category": "Aromatics & Produce",
+      "count": 11,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "combo-fried-rice",
+          "title": "Combination Fried Rice"
+        },
+        {
+          "id": "pork-fried-rice",
+          "title": "Pork Fried Rice"
+        },
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "tomato-egg",
+          "title": "Tomato & Egg Stir-Fry"
+        },
+        {
+          "id": "yangzhou-rice",
+          "title": "Yangzhou Fried Rice"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "shrimp-fried-rice",
+          "title": "Shrimp Egg Fried Rice"
+        }
+      ],
+      "note": "White for cooking, green for finish. Seen across ~11 dishes in this book."
+    },
+    {
+      "id": "baby-corn",
+      "name": "Baby corn",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Buffet nostalgia, legitimately fun. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "baking-soda",
+      "name": "Baking soda",
+      "category": "Pantry Staples",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Velveting helper for meat. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "beef-flank",
+      "name": "Beef flank",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Velvet against the grain for stir-fry. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "bell-pepper",
+      "name": "Bell pepper",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Sweet-and-sour color and crunch. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "black-pepper",
+      "name": "Black pepper",
+      "category": "Spices",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Universal finish. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "black-vinegar",
+      "name": "Black vinegar",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Smoky tang for dumplings and Shanghainese notes. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Beef & broccoli canon. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "brown-rice",
+      "name": "Brown rice",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Health-menu swap; cook longer. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "brown-sugar",
+      "name": "Brown sugar",
+      "category": "Pantry Staples",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Char siu and Mongolian sweetness. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chicken-bouillon-powder",
+      "name": "Chicken bouillon powder",
+      "category": "Pantry Staples",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Weeknight stock shortcut. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chicken-breast",
+      "name": "Chicken breast",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Velvet thin for white-sauce classics. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chicken-fat",
+      "name": "Chicken fat",
+      "category": "Oils & Fats",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Schmaltz for ginger-scallion oil. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chicken-stock",
+      "name": "Chicken stock",
+      "category": "Pantry Staples",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Soups, sauces, and egg drop body. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chicken-thighs",
+      "name": "Chicken thighs",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Dark meat stays juicy through fry and velvet. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chili-crisp-chili-oil",
+      "name": "Chili crisp / chili oil",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Crunchy heat you spoon on everything. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chinese-broccoli-gai-lan",
+      "name": "Chinese broccoli (gai lan)",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Oyster-sauce greens classic. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "chinkiang-vinegar",
+      "name": "Chinkiang vinegar",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Another name for black vinegar \u2014 dumpling essential. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "cloves",
+      "name": "Cloves",
+      "category": "Spices",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Red-braise tiny dots. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "corn-kernels",
+      "name": "Corn kernels",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Egg-drop corn soup. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "cornstarch",
+      "name": "Cornstarch",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Velvet, thicken, and crisp. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "cornstarch-slurry",
+      "name": "Cornstarch slurry",
+      "category": "Pantry Staples",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Equal parts starch + cold water \u2014 sauce gloss. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "duck-sauce",
+      "name": "Duck sauce",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Packet-orange sweet dip for egg rolls. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "egg-noodles",
+      "name": "Egg noodles",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Lo mein and chow mein workhorse. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "fish-sauce-dash",
+      "name": "Fish sauce (dash)",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Occasional umami boost in modern fusion plates. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "garlic-chili-sauce",
+      "name": "Garlic chili sauce",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Sambal-adjacent heat for noodles. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Smashed, minced, or julienned \u2014 never optional. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "glass-noodles",
+      "name": "Glass noodles",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Ants-climbing-tree and hot pot. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "glutinous-rice",
+      "name": "Glutinous rice",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Sticky rice for zongzi and sweet fillings. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "ground-beef",
+      "name": "Ground beef",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "American-Chinese meat sauce nights. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "ground-chicken",
+      "name": "Ground chicken",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Lighter dumpling filling. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "ground-pork",
+      "name": "Ground pork",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Dumplings, mapo, egg foo young. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "hoisin-sauce",
+      "name": "Hoisin sauce",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Sweet-salty glaze for ribs, mu shu, and bao. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "jasmine-rice",
+      "name": "Jasmine rice",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Daily steamer rice; fry only when day-old and cold. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "ketchup",
+      "name": "Ketchup",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "American-Chinese sweet-and-sour secret. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "napa-cabbage",
+      "name": "Napa cabbage",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "chicken-lo-mein",
+          "title": "Chicken Lo Mein"
+        },
+        {
+          "id": "beef-lo-mein",
+          "title": "Beef Lo Mein"
+        },
+        {
+          "id": "shrimp-lo-mein",
+          "title": "Shrimp Lo Mein"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        }
+      ],
+      "note": "Dumpling filling and gentle stir-fries. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "neutral-oil",
+      "name": "Neutral oil",
+      "category": "Oils & Fats",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Peanut, canola, or vegetable for high-heat wok work. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "oyster-sauce",
+      "name": "Oyster sauce",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Glossy savory backbone of takeout brown sauce. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "plum-sauce",
+      "name": "Plum sauce",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Fruity glaze for roast duck and rolls. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "pork-belly",
+      "name": "Pork belly",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Red-braise (hong shao) glory. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "pork-ribs",
+      "name": "Pork ribs",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Sweet-sour or black-bean steam. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "pork-shoulder",
+      "name": "Pork shoulder",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Char siu and pulled fillings. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "potato-starch",
+      "name": "Potato starch",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Extra-crisp fry coating when you want shatter. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "rice-flour",
+      "name": "Rice flour",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Cheung fun and some batters. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "rice-noodles",
+      "name": "Rice noodles",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Pad-adjacent stir-fries and soups. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "rice-vermicelli",
+      "name": "Rice vermicelli",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Mei fun and soup add-ins. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "rice-vinegar",
+      "name": "Rice vinegar",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Bright acid for sweet-and-sour and dumpling dips. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "rock-sugar",
+      "name": "Rock sugar",
+      "category": "Pantry Staples",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Hong shao shine. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "sesame-paste-zhima-jiang",
+      "name": "Sesame paste (zhima jiang)",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Northern cold noodles and hot pot dip. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "sesame-seeds",
+      "name": "Sesame seeds",
+      "category": "Nuts & Seeds",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Toast and scatter. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "short-grain-rice",
+      "name": "Short-grain rice",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Stickier bowls and sushi-adjacent sides. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "shrimp",
+      "name": "Shrimp",
+      "category": "Proteins",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Quick-cook star of fried rice and lo mein. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "soy-sauce-light",
+      "name": "Soy sauce (light)",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Everyday seasoning salt of the Chinese kitchen. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "star-anise",
+      "name": "Star anise",
+      "category": "Spices",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Red-braise bouquet. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "category": "Pantry Staples",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Balances soy and vinegar. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "tapioca-starch",
+      "name": "Tapioca starch",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Q-chewy bounce in sauces and boba-adjacent. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "toasted-sesame-oil",
+      "name": "Toasted sesame oil",
+      "category": "Oils & Fats",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Aromatic finish oil \u2014 never the fry medium. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "water-chestnuts",
+      "name": "Water chestnuts",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Canned crunch that survives the steam table. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "wheat-starch",
+      "name": "Wheat starch",
+      "category": "Starches & Grains",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Crystal dumpling wrappers. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "white-sesame-oil-untoasted",
+      "name": "White sesame oil (untoasted)",
+      "category": "Oils & Fats",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Neutral sesame for frying if needed. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "xo-sauce",
+      "name": "XO sauce",
+      "category": "Sauces & Condiments",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Luxury seafood chile jam for fried rice upgrades. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "yellow-onion",
+      "name": "Yellow onion",
+      "category": "Aromatics & Produce",
+      "count": 10,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "general-tsos",
+          "title": "General Tso's Chicken"
+        },
+        {
+          "id": "orange-chicken",
+          "title": "Orange Chicken"
+        },
+        {
+          "id": "sesame-chicken",
+          "title": "Sesame Chicken"
+        },
+        {
+          "id": "sweet-sour-chicken",
+          "title": "Sweet & Sour Chicken"
+        },
+        {
+          "id": "sweet-sour-pork",
+          "title": "Sweet & Sour Pork"
+        },
+        {
+          "id": "lemon-chicken",
+          "title": "Lemon Chicken"
+        },
+        {
+          "id": "kung-pao-am",
+          "title": "Kung Pao Chicken (American)"
+        },
+        {
+          "id": "cashew-chicken",
+          "title": "Cashew Chicken"
+        },
+        {
+          "id": "almond-chicken",
+          "title": "Almond Boneless Chicken"
+        },
+        {
+          "id": "mongolian-beef",
+          "title": "Mongolian Beef"
+        }
+      ],
+      "note": "Pepper steak and fajita-adjacent stir-fries. Seen across ~10 dishes in this book."
+    },
+    {
+      "id": "cream-cheese",
+      "name": "Cream cheese",
+      "category": "Dairy",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        },
+        {
+          "id": "cong-you-bing",
+          "title": "Cong You Bing"
+        },
+        {
+          "id": "clear-wonton-noodles",
+          "title": "Clear Broth Wonton Noodles"
+        }
+      ],
+      "note": "Rangoon richness (American-Chinese). Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "dumpling-wrappers",
+      "name": "Dumpling wrappers",
+      "category": "Starches & Grains",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        },
+        {
+          "id": "cong-you-bing",
+          "title": "Cong You Bing"
+        },
+        {
+          "id": "clear-wonton-noodles",
+          "title": "Clear Broth Wonton Noodles"
+        }
+      ],
+      "note": "Round skins for potstickers and boiled jiaozi. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "egg-roll-wrappers",
+      "name": "Egg roll wrappers",
+      "category": "Starches & Grains",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        },
+        {
+          "id": "cong-you-bing",
+          "title": "Cong You Bing"
+        },
+        {
+          "id": "clear-wonton-noodles",
+          "title": "Clear Broth Wonton Noodles"
+        }
+      ],
+      "note": "Crispy rolls and leftover-night heroes. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "fried-tofu-puffs",
+      "name": "Fried tofu puffs",
+      "category": "Proteins",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        },
+        {
+          "id": "egg-tomato-soup",
+          "title": "Tomato Egg Drop Soup"
+        }
+      ],
+      "note": "Soak up braising liquid. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "imitation-crab",
+      "name": "Imitation crab",
+      "category": "Proteins",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        },
+        {
+          "id": "cong-you-bing",
+          "title": "Cong You Bing"
+        },
+        {
+          "id": "clear-wonton-noodles",
+          "title": "Clear Broth Wonton Noodles"
+        }
+      ],
+      "note": "Rangoon filling classic. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "pressed-tofu",
+      "name": "Pressed tofu",
+      "category": "Proteins",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        },
+        {
+          "id": "egg-tomato-soup",
+          "title": "Tomato Egg Drop Soup"
+        }
+      ],
+      "note": "Slices for cold appetizers. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "silken-tofu-pudding-mix",
+      "name": "Silken tofu pudding mix",
+      "category": "Proteins",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        },
+        {
+          "id": "egg-tomato-soup",
+          "title": "Tomato Egg Drop Soup"
+        }
+      ],
+      "note": "Optional dessert night. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "spring-roll-wrappers",
+      "name": "Spring roll wrappers",
+      "category": "Starches & Grains",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        },
+        {
+          "id": "cong-you-bing",
+          "title": "Cong You Bing"
+        },
+        {
+          "id": "clear-wonton-noodles",
+          "title": "Clear Broth Wonton Noodles"
+        }
+      ],
+      "note": "Thinner sheet for lighter crunch. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "tofu-firm",
+      "name": "Tofu (firm)",
+      "category": "Proteins",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        },
+        {
+          "id": "egg-tomato-soup",
+          "title": "Tomato Egg Drop Soup"
+        }
+      ],
+      "note": "Mapo, hot pot add-in, pan-sear for texture. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "tofu-soft-silken",
+      "name": "Tofu (soft/silken)",
+      "category": "Proteins",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        },
+        {
+          "id": "egg-tomato-soup",
+          "title": "Tomato Egg Drop Soup"
+        }
+      ],
+      "note": "Gentle soups and steamed dishes. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "wonton-soup-base",
+      "name": "Wonton soup base",
+      "category": "Pantry Staples",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        },
+        {
+          "id": "cong-you-bing",
+          "title": "Cong You Bing"
+        },
+        {
+          "id": "clear-wonton-noodles",
+          "title": "Clear Broth Wonton Noodles"
+        }
+      ],
+      "note": "Light chicken broth + sesame oil + white pepper. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "wonton-wrappers",
+      "name": "Wonton wrappers",
+      "category": "Starches & Grains",
+      "count": 9,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "crab-rangoon",
+          "title": "Crab Rangoon"
+        },
+        {
+          "id": "egg-rolls",
+          "title": "Egg Rolls"
+        },
+        {
+          "id": "fried-wontons",
+          "title": "Fried Wontons"
+        },
+        {
+          "id": "fried-dumplings",
+          "title": "Pan-Fried Dumplings"
+        },
+        {
+          "id": "scallion-pancake-am",
+          "title": "Scallion Pancakes"
+        },
+        {
+          "id": "jiaozi",
+          "title": "Boiled Dumplings (Jiaozi)"
+        },
+        {
+          "id": "baozi",
+          "title": "Steamed Pork Baozi"
+        },
+        {
+          "id": "cong-you-bing",
+          "title": "Cong You Bing"
+        },
+        {
+          "id": "clear-wonton-noodles",
+          "title": "Clear Broth Wonton Noodles"
+        }
+      ],
+      "note": "Wontons, rangoon, and emergency dumpling skins. Seen across ~9 dishes in this book."
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "category": "Aromatics & Produce",
+      "count": 8,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "scallion-oil-noodles",
+          "title": "Scallion Oil Noodles"
+        },
+        {
+          "id": "soy-chow-mein",
+          "title": "Soy Sauce Fried Noodles"
+        },
+        {
+          "id": "hainan-chicken",
+          "title": "Hainanese Chicken Rice"
+        },
+        {
+          "id": "cold-sesame",
+          "title": "Cold Sesame Noodles"
+        },
+        {
+          "id": "dan-dan-mild",
+          "title": "Dan Dan Noodles (Mild)"
+        },
+        {
+          "id": "zha-jiang",
+          "title": "Zha Jiang Mian"
+        },
+        {
+          "id": "claypot-chicken",
+          "title": "Claypot Chicken Rice"
+        },
+        {
+          "id": "soy-chicken-rice",
+          "title": "Soy Sauce Chicken Rice"
+        }
+      ],
+      "note": "Cool contrast for spicy plates. Seen across ~8 dishes in this book."
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "category": "Aromatics & Produce",
+      "count": 7,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "combo-fried-rice",
+          "title": "Combination Fried Rice"
+        },
+        {
+          "id": "pork-fried-rice",
+          "title": "Pork Fried Rice"
+        },
+        {
+          "id": "chicken-lo-mein",
+          "title": "Chicken Lo Mein"
+        },
+        {
+          "id": "beef-lo-mein",
+          "title": "Beef Lo Mein"
+        },
+        {
+          "id": "shrimp-lo-mein",
+          "title": "Shrimp Lo Mein"
+        },
+        {
+          "id": "yangzhou-rice",
+          "title": "Yangzhou Fried Rice"
+        },
+        {
+          "id": "shrimp-fried-rice",
+          "title": "Shrimp Egg Fried Rice"
+        }
+      ],
+      "note": "Fried rice dice and dumpling mix. Seen across ~7 dishes in this book."
+    },
+    {
+      "id": "char-siu-store-bought",
+      "name": "Char siu (store-bought)",
+      "category": "Proteins",
+      "count": 7,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "combo-fried-rice",
+          "title": "Combination Fried Rice"
+        },
+        {
+          "id": "pork-fried-rice",
+          "title": "Pork Fried Rice"
+        },
+        {
+          "id": "yangzhou-rice",
+          "title": "Yangzhou Fried Rice"
+        },
+        {
+          "id": "hainan-chicken",
+          "title": "Hainanese Chicken Rice"
+        },
+        {
+          "id": "claypot-chicken",
+          "title": "Claypot Chicken Rice"
+        },
+        {
+          "id": "soy-chicken-rice",
+          "title": "Soy Sauce Chicken Rice"
+        },
+        {
+          "id": "shrimp-fried-rice",
+          "title": "Shrimp Egg Fried Rice"
+        }
+      ],
+      "note": "Shortcut roast pork for fried rice. Seen across ~7 dishes in this book."
+    },
+    {
+      "id": "shaoxing-wine",
+      "name": "Shaoxing wine",
+      "category": "Sauces & Condiments",
+      "count": 7,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "bbq-ribs",
+          "title": "Chinese BBQ Spare Ribs"
+        },
+        {
+          "id": "boneless-ribs",
+          "title": "Boneless Spare Ribs"
+        },
+        {
+          "id": "hong-shao-rou",
+          "title": "Red-Braised Pork Belly"
+        },
+        {
+          "id": "tang-cu-ribs",
+          "title": "Chinese Sweet-Sour Spare Ribs"
+        },
+        {
+          "id": "char-siu",
+          "title": "Char Siu Roast Pork"
+        },
+        {
+          "id": "char-siu-rice",
+          "title": "Char Siu Rice Plate"
+        },
+        {
+          "id": "roast-duck-rice",
+          "title": "Roast Duck Rice Plate"
+        }
+      ],
+      "note": "Cooking wine for marinades and deglazing. Seen across ~7 dishes in this book."
+    },
+    {
+      "id": "bamboo-shoots",
+      "name": "Bamboo shoots",
+      "category": "Aromatics & Produce",
+      "count": 6,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "egg-tomato-soup",
+          "title": "Tomato Egg Drop Soup"
+        }
+      ],
+      "note": "Classic stir-fry extender. Seen across ~6 dishes in this book."
+    },
+    {
+      "id": "dark-soy-sauce",
+      "name": "Dark soy sauce",
+      "category": "Sauces & Condiments",
+      "count": 6,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "scallion-oil-noodles",
+          "title": "Scallion Oil Noodles"
+        },
+        {
+          "id": "soy-chow-mein",
+          "title": "Soy Sauce Fried Noodles"
+        },
+        {
+          "id": "hong-shao-rou",
+          "title": "Red-Braised Pork Belly"
+        },
+        {
+          "id": "cold-sesame",
+          "title": "Cold Sesame Noodles"
+        },
+        {
+          "id": "dan-dan-mild",
+          "title": "Dan Dan Noodles (Mild)"
+        },
+        {
+          "id": "zha-jiang",
+          "title": "Zha Jiang Mian"
+        }
+      ],
+      "note": "Color and molasses depth for braises and fried rice. Seen across ~6 dishes in this book."
+    },
+    {
+      "id": "five-spice-powder",
+      "name": "Five-spice powder",
+      "category": "Spices",
+      "count": 6,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "bbq-ribs",
+          "title": "Chinese BBQ Spare Ribs"
+        },
+        {
+          "id": "boneless-ribs",
+          "title": "Boneless Spare Ribs"
+        },
+        {
+          "id": "tang-cu-ribs",
+          "title": "Chinese Sweet-Sour Spare Ribs"
+        },
+        {
+          "id": "char-siu",
+          "title": "Char Siu Roast Pork"
+        },
+        {
+          "id": "char-siu-rice",
+          "title": "Char Siu Rice Plate"
+        },
+        {
+          "id": "roast-duck-rice",
+          "title": "Roast Duck Rice Plate"
+        }
+      ],
+      "note": "Char siu and roast pork perfume. Seen across ~6 dishes in this book."
+    },
+    {
+      "id": "food-coloring-optional",
+      "name": "Food coloring (optional)",
+      "category": "Pantry Staples",
+      "count": 6,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "bbq-ribs",
+          "title": "Chinese BBQ Spare Ribs"
+        },
+        {
+          "id": "boneless-ribs",
+          "title": "Boneless Spare Ribs"
+        },
+        {
+          "id": "tang-cu-ribs",
+          "title": "Chinese Sweet-Sour Spare Ribs"
+        },
+        {
+          "id": "char-siu",
+          "title": "Char Siu Roast Pork"
+        },
+        {
+          "id": "char-siu-rice",
+          "title": "Char Siu Rice Plate"
+        },
+        {
+          "id": "roast-duck-rice",
+          "title": "Roast Duck Rice Plate"
+        }
+      ],
+      "note": "Buffet-red char siu look \u2014 skip if you prefer natural. Seen across ~6 dishes in this book."
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "category": "Pantry Staples",
+      "count": 6,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "bbq-ribs",
+          "title": "Chinese BBQ Spare Ribs"
+        },
+        {
+          "id": "boneless-ribs",
+          "title": "Boneless Spare Ribs"
+        },
+        {
+          "id": "tang-cu-ribs",
+          "title": "Chinese Sweet-Sour Spare Ribs"
+        },
+        {
+          "id": "char-siu",
+          "title": "Char Siu Roast Pork"
+        },
+        {
+          "id": "char-siu-rice",
+          "title": "Char Siu Rice Plate"
+        },
+        {
+          "id": "roast-duck-rice",
+          "title": "Roast Duck Rice Plate"
+        }
+      ],
+      "note": "Sticky glaze shine. Seen across ~6 dishes in this book."
+    },
+    {
+      "id": "spare-ribs",
+      "name": "Spare ribs",
+      "category": "Proteins",
+      "count": 6,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "bbq-ribs",
+          "title": "Chinese BBQ Spare Ribs"
+        },
+        {
+          "id": "boneless-ribs",
+          "title": "Boneless Spare Ribs"
+        },
+        {
+          "id": "tang-cu-ribs",
+          "title": "Chinese Sweet-Sour Spare Ribs"
+        },
+        {
+          "id": "char-siu",
+          "title": "Char Siu Roast Pork"
+        },
+        {
+          "id": "char-siu-rice",
+          "title": "Char Siu Rice Plate"
+        },
+        {
+          "id": "roast-duck-rice",
+          "title": "Roast Duck Rice Plate"
+        }
+      ],
+      "note": "Char siu sticky glaze. Seen across ~6 dishes in this book."
+    },
+    {
+      "id": "wood-ear-mushrooms",
+      "name": "Wood ear mushrooms",
+      "category": "Aromatics & Produce",
+      "count": 6,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hot-sour",
+          "title": "Hot & Sour Soup"
+        },
+        {
+          "id": "egg-drop",
+          "title": "Egg Drop Soup"
+        },
+        {
+          "id": "wonton-soup",
+          "title": "Wonton Soup"
+        },
+        {
+          "id": "tomato-beef-noodles",
+          "title": "Tomato Beef Noodle Soup"
+        },
+        {
+          "id": "corn-rib-soup",
+          "title": "Corn & Spare Rib Soup"
+        },
+        {
+          "id": "egg-tomato-soup",
+          "title": "Tomato Egg Drop Soup"
+        }
+      ],
+      "note": "Crunchy fungus for hot-and-sour. Seen across ~6 dishes in this book."
+    },
+    {
+      "id": "bean-paste-tianmianjiang",
+      "name": "Bean paste (tianmianjiang)",
+      "category": "Sauces & Condiments",
+      "count": 5,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "scallion-oil-noodles",
+          "title": "Scallion Oil Noodles"
+        },
+        {
+          "id": "soy-chow-mein",
+          "title": "Soy Sauce Fried Noodles"
+        },
+        {
+          "id": "cold-sesame",
+          "title": "Cold Sesame Noodles"
+        },
+        {
+          "id": "dan-dan-mild",
+          "title": "Dan Dan Noodles (Mild)"
+        },
+        {
+          "id": "zha-jiang",
+          "title": "Zha Jiang Mian"
+        }
+      ],
+      "note": "Sweet wheat paste for northern noodles. Seen across ~5 dishes in this book."
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "category": "Pantry Staples",
+      "count": 5,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "combo-fried-rice",
+          "title": "Combination Fried Rice"
+        },
+        {
+          "id": "pork-fried-rice",
+          "title": "Pork Fried Rice"
+        },
+        {
+          "id": "tomato-egg",
+          "title": "Tomato & Egg Stir-Fry"
+        },
+        {
+          "id": "yangzhou-rice",
+          "title": "Yangzhou Fried Rice"
+        },
+        {
+          "id": "shrimp-fried-rice",
+          "title": "Shrimp Egg Fried Rice"
+        }
+      ],
+      "note": "Still needed even with soy. Seen across ~5 dishes in this book."
+    },
+    {
+      "id": "peas",
+      "name": "Peas",
+      "category": "Aromatics & Produce",
+      "count": 4,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "combo-fried-rice",
+          "title": "Combination Fried Rice"
+        },
+        {
+          "id": "pork-fried-rice",
+          "title": "Pork Fried Rice"
+        },
+        {
+          "id": "yangzhou-rice",
+          "title": "Yangzhou Fried Rice"
+        },
+        {
+          "id": "shrimp-fried-rice",
+          "title": "Shrimp Egg Fried Rice"
+        }
+      ],
+      "note": "Fried rice green pearls. Seen across ~4 dishes in this book."
+    },
+    {
+      "id": "snow-peas",
+      "name": "Snow peas",
+      "category": "Aromatics & Produce",
+      "count": 4,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "combo-fried-rice",
+          "title": "Combination Fried Rice"
+        },
+        {
+          "id": "pork-fried-rice",
+          "title": "Pork Fried Rice"
+        },
+        {
+          "id": "yangzhou-rice",
+          "title": "Yangzhou Fried Rice"
+        },
+        {
+          "id": "shrimp-fried-rice",
+          "title": "Shrimp Egg Fried Rice"
+        }
+      ],
+      "note": "Bright snap in white-sauce dishes. Seen across ~4 dishes in this book."
+    },
+    {
+      "id": "doubanjiang",
+      "name": "Doubanjiang",
+      "category": "Sauces & Condiments",
+      "count": 3,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        }
+      ],
+      "note": "Fermented chile-bean paste \u2014 mapo and twice-cooked soul. Seen across ~3 dishes in this book."
+    },
+    {
+      "id": "duck",
+      "name": "Duck",
+      "category": "Proteins",
+      "count": 3,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "hainan-chicken",
+          "title": "Hainanese Chicken Rice"
+        },
+        {
+          "id": "claypot-chicken",
+          "title": "Claypot Chicken Rice"
+        },
+        {
+          "id": "soy-chicken-rice",
+          "title": "Soy Sauce Chicken Rice"
+        }
+      ],
+      "note": "Roast duck or leftover fried rice luxury. Seen across ~3 dishes in this book."
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "name": "Sichuan peppercorn",
+      "category": "Spices",
+      "count": 3,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        }
+      ],
+      "note": "Mala tingle \u2014 use with a light hand. Seen across ~3 dishes in this book."
+    },
+    {
+      "id": "vegetable-stock",
+      "name": "Vegetable stock",
+      "category": "Pantry Staples",
+      "count": 3,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "mapo-mild",
+          "title": "Mapo Tofu (Mild Home Style)"
+        },
+        {
+          "id": "home-tofu",
+          "title": "Home-Style Braised Tofu"
+        },
+        {
+          "id": "salt-pepper-tofu",
+          "title": "Salt & Pepper Tofu"
+        }
+      ],
+      "note": "Meatless mapo and greens. Seen across ~3 dishes in this book."
+    },
+    {
+      "id": "agar-gelatin",
+      "name": "Agar / gelatin",
+      "category": "Pantry Staples",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Mango pudding set. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "all-purpose-flour",
+      "name": "All-purpose flour",
+      "category": "Starches & Grains",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Batter for orange chicken and egg foo young. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "almonds",
+      "name": "Almonds",
+      "category": "Nuts & Seeds",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Almond boneless finish. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "asparagus",
+      "name": "Asparagus",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Quick velvet-chicken partner. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "bacon",
+      "name": "Bacon",
+      "category": "Proteins",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Fried rice smoke (untraditional, delicious). Core pantry staple for this kitchen."
+    },
+    {
+      "id": "bay-leaf",
+      "name": "Bay leaf",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Occasional braise cameo. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "bean-sprouts",
+      "name": "Bean sprouts",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Last-second crunch for chow mein. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "bok-choy",
+      "name": "Bok choy",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Quick garlic greens. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "cashews",
+      "name": "Cashews",
+      "category": "Nuts & Seeds",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Cashew chicken glory. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "celery",
+      "name": "Celery",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Chop suey crunch. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "chestnuts",
+      "name": "Chestnuts",
+      "category": "Nuts & Seeds",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Braised chicken winter plate. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "chile-oil-sediment",
+      "name": "Chile oil sediment",
+      "category": "Oils & Fats",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "The crunchy bits at the bottom of the jar. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "chinese-eggplant",
+      "name": "Chinese eggplant",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Fish-fragrant and garlic sauces. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "chinese-mustard-greens",
+      "name": "Chinese mustard greens",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Pickled or stir-fried bitter-green (mild). Core pantry staple for this kitchen."
+    },
+    {
+      "id": "chow-mein-noodles",
+      "name": "Chow mein noodles",
+      "category": "Starches & Grains",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Crispy or soft \u2014 know your regional quarrel. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "cilantro",
+      "name": "Cilantro",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Love-it-or-leave-it finish. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "cinnamon-stick",
+      "name": "Cinnamon stick",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Master stock perfume. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "coconut-milk",
+      "name": "Coconut milk",
+      "category": "Dairy",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Southeast-leaning curry bowls. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "coriander-seed",
+      "name": "Coriander seed",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Warm braise spice. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "cumin",
+      "name": "Cumin",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Xi'an-style lamb vibes. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "curry-powder-hk-style",
+      "name": "Curry powder (HK style)",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "British-Hong Kong curry beef. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "daikon-radish",
+      "name": "Daikon radish",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Soups and gentle braises. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "dried-red-chiles",
+      "name": "Dried red chiles",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Kung pao and dry-fried heat. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "dried-red-dates",
+      "name": "Dried red dates",
+      "category": "Pantry Staples",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Gentle soup sweetness. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "dried-shiitake",
+      "name": "Dried shiitake",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Soak, save the liquor, braise deep. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "dried-tangerine-peel",
+      "name": "Dried tangerine peel",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Chenpi aroma for braises. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "edamame",
+      "name": "Edamame",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Appetizer bowl with salt. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "egg-whites",
+      "name": "Egg whites",
+      "category": "Proteins",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Velveting and egg foo young lift. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "enoki-mushrooms",
+      "name": "Enoki mushrooms",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Hot pot and quick garlic saut\u00e9s. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "fennel-seed",
+      "name": "Fennel seed",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Braise bouquet. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "fermented-black-beans",
+      "name": "Fermented black beans",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Salty depth for black-bean ribs and clams. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "goji-berries",
+      "name": "Goji berries",
+      "category": "Pantry Staples",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Soup garnish, mild sweet. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "green-beans",
+      "name": "Green beans",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Dry-fried Sichuan style. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "ham",
+      "name": "Ham",
+      "category": "Proteins",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Yangzhou fried rice cubes. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "hong-kong-style-wonton-noodles",
+      "name": "Hong Kong-style wonton noodles",
+      "category": "Starches & Grains",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Alkaline bounce for soup wontons. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "kimchi-fusion",
+      "name": "Kimchi (fusion)",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Modern fried rice heat. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "lap-cheong",
+      "name": "Lap cheong",
+      "category": "Proteins",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Sweet Chinese sausage for clay pot rice. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "lard",
+      "name": "Lard",
+      "category": "Oils & Fats",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Old-school fried rice perfume. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Lemon chicken glaze. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "light-soy-sauce",
+      "name": "Light soy sauce",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Salt-forward seasoning for marinades and finishing. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Bright squeeze for seafood. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "lo-mein-noodles",
+      "name": "Lo mein noodles",
+      "category": "Starches & Grains",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Fresh wheat noodles that drink sauce. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "long-beans",
+      "name": "Long beans",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Dry-fried with pork. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "lotus-root",
+      "name": "Lotus root",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Crunchy slices for stir-fry and soup. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "maltose",
+      "name": "Maltose",
+      "category": "Pantry Staples",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Peking duck skin lacquer. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "category": "Dairy",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Honey walnut shrimp sauce. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "mirin-or-rice-wine-mild",
+      "name": "Mirin (or rice wine mild)",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Optional mild sweetness if Shaoxing is too strong. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "msg-optional",
+      "name": "MSG (optional)",
+      "category": "Pantry Staples",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Restaurant savor; a pinch is plenty. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "mushroom-button-shiitake",
+      "name": "Mushroom (button/shiitake)",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Moo goo and braises. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "orange-segments",
+      "name": "Orange segments",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Orange beef garnish. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "orange-zest-juice",
+      "name": "Orange zest / juice",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Orange chicken perfume. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "panko",
+      "name": "Panko",
+      "category": "Starches & Grains",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Extra crunch for fusion cutlets. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "peanut-butter",
+      "name": "Peanut butter",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Emergency sesame-paste stand-in for cold noodles. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "peanuts",
+      "name": "Peanuts",
+      "category": "Nuts & Seeds",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Kung pao crunch. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "pickled-mustard-greens",
+      "name": "Pickled mustard greens",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Sour crunch for noodles. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "pine-nuts",
+      "name": "Pine nuts",
+      "category": "Nuts & Seeds",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Occasional garnish luxury. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Sweet-and-sour fruit punch. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "preserved-radish",
+      "name": "Preserved radish",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Fried rice salty pops. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "romaine-iceberg",
+      "name": "Romaine / iceberg",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Chop suey and lettuce wraps. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "scallops",
+      "name": "Scallops",
+      "category": "Proteins",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Velvet with asparagus. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "seasoned-soy-sauce",
+      "name": "Seasoned soy sauce",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Table dip for dumplings when mixed with vinegar. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "sha-cha-sauce",
+      "name": "Sha cha sauce",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "BBQ-ish umami for beef hot pot. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "shallot",
+      "name": "Shallot",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Sweeter aromatic for finer sauces. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "shaoxing-substitute-dry-sherry",
+      "name": "Shaoxing substitute dry sherry",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Pantry backup when Shaoxing is scarce. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "soy-milk",
+      "name": "Soy milk",
+      "category": "Dairy",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Breakfast and cooking mild base. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Garlic wilt side. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "squid",
+      "name": "Squid",
+      "category": "Proteins",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Salt-and-pepper or stir-fry. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "sriracha",
+      "name": "Sriracha",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "American fridge heat for takeout nights. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "sweet-bean-sauce",
+      "name": "Sweet bean sauce",
+      "category": "Sauces & Condiments",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Jingjiang-style noodles and Peking duck pancakes. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "sweetened-condensed-milk",
+      "name": "Sweetened condensed milk",
+      "category": "Dairy",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Mango pudding / toast dessert. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "thai-basil",
+      "name": "Thai basil",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Occasional fusion finish. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [
+        {
+          "id": "tomato-egg",
+          "title": "Tomato & Egg Stir-Fry"
+        }
+      ],
+      "note": "Tomato-egg and sweet-sour brightness. Seen across ~1 dishes in this book."
+    },
+    {
+      "id": "turmeric",
+      "name": "Turmeric",
+      "category": "Spices",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Curry color. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "udon-thick-wheat-noodles",
+      "name": "Udon / thick wheat noodles",
+      "category": "Starches & Grains",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Hearty bowls when egg noodles run out. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "walnuts",
+      "name": "Walnuts",
+      "category": "Nuts & Seeds",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Honey walnut shrimp. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "whole-fish-bass-tilapia",
+      "name": "Whole fish (bass/tilapia)",
+      "category": "Proteins",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Steamed fish with ginger-scallion oil. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "yardlong-beans",
+      "name": "Yardlong beans",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Same family \u2014 wok blister them. Core pantry staple for this kitchen."
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini",
+      "category": "Aromatics & Produce",
+      "count": 1,
+      "examples": [],
+      "recipes": [],
+      "note": "Mild stir-fry extender. Core pantry staple for this kitchen."
+    }
+  ],
+  "stats": {
+    "recipes": 88,
+    "ingredients": 174,
+    "equipment": 8
+  }
+}
